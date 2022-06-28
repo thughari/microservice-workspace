@@ -1,0 +1,11 @@
+package com.wipro.velocity.model;
+
+public class Account {
+	
+	private int empId;
+    private String accountId;
+    private String branch;
+	public Account() {}
+    
+
+}
